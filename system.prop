@@ -1,0 +1,4 @@
+# Fingerprint
+persist.qfp=false
+ro.usb.pid_suffix=1E0
+ro.sf.lcd_density=480 
